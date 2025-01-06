@@ -1500,5 +1500,37 @@ Once installed, use Add Integration -> Ecoflow Cloud.
 
 </p></details>
 
+<details><summary> Smart Generator Dual Fuel <i>(sensors: 19, switches: 2, sliders: 1, selects: 0)</i> </summary>
+<p>
+  
+*Sensors*
+- Fuel tank
+- Working duration of generator 
+- Total power 
+- Remaining time 
+- DC power 
+- DC state 
+- DC (12V) Charge Current
+- DC out state 
+- DC Voltage 
+- Oil max power 
+- AC power
+- AC state 
+- AC Voltage 
+- AC Charge Current
+- System Mode 
+- Error Code 
+- Motor state 
+- Temperature 
+- Software Version 
+
+*Switches*
+- Set Motor Enabled 
+- Set Mode Eco
+
+*Sliders (numbers)*
+- DC Discharge Speed 
+
+
 ## How to
 - [Add/update device](docs/integration.md)
